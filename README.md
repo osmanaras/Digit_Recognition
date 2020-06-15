@@ -4,6 +4,9 @@ Digit Recognition is a Deep Learning project where we have picture of human writ
 The aim of this project is to create a model who can recognize the digit.
 It's a multi-classification problem.
 
-The Dataset is from Kaggle Digit Recognition competitions.
+Technologie used : python, Keras, pandas
 
-Technologie used : python, Keras, pandas 
+The Dataset is from Kaggle Digit Recognition competitions.
+To look at the dataset click on this link :
+https://www.kaggle.com/c/digit-recognizer
+ 
